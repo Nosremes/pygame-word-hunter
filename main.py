@@ -161,3 +161,5 @@ while True:
             word.try_letter(pygame.key.name(event.key))
 
     pygame.display.update()    
+
+pygame.quit()
