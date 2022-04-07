@@ -1,6 +1,5 @@
 import nltk 
 from nltk.corpus import floresta
-from nltk.text import Text
 import re 
 #nltk.download("floresta")
 
